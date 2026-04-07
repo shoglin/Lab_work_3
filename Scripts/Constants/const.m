@@ -1,5 +1,7 @@
 %% Script for SimScape Initialization
+
 i = 18;
+
 U1 = 3.3;
 
 % Расчет сопротивлений
